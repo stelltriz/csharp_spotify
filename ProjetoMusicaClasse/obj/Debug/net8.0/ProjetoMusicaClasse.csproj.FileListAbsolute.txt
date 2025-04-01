@@ -1,0 +1,14 @@
+C:\Users\nat7ca\Desktop\ProjetoMusicaClasse\ProjetoMusicaClasse\bin\Debug\net8.0\ProjetoMusicaClasse.exe
+C:\Users\nat7ca\Desktop\ProjetoMusicaClasse\ProjetoMusicaClasse\bin\Debug\net8.0\ProjetoMusicaClasse.deps.json
+C:\Users\nat7ca\Desktop\ProjetoMusicaClasse\ProjetoMusicaClasse\bin\Debug\net8.0\ProjetoMusicaClasse.runtimeconfig.json
+C:\Users\nat7ca\Desktop\ProjetoMusicaClasse\ProjetoMusicaClasse\bin\Debug\net8.0\ProjetoMusicaClasse.dll
+C:\Users\nat7ca\Desktop\ProjetoMusicaClasse\ProjetoMusicaClasse\bin\Debug\net8.0\ProjetoMusicaClasse.pdb
+C:\Users\nat7ca\Desktop\ProjetoMusicaClasse\ProjetoMusicaClasse\obj\Debug\net8.0\ProjetoMusicaClasse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nat7ca\Desktop\ProjetoMusicaClasse\ProjetoMusicaClasse\obj\Debug\net8.0\ProjetoMusicaClasse.AssemblyInfoInputs.cache
+C:\Users\nat7ca\Desktop\ProjetoMusicaClasse\ProjetoMusicaClasse\obj\Debug\net8.0\ProjetoMusicaClasse.AssemblyInfo.cs
+C:\Users\nat7ca\Desktop\ProjetoMusicaClasse\ProjetoMusicaClasse\obj\Debug\net8.0\ProjetoMusicaClasse.csproj.CoreCompileInputs.cache
+C:\Users\nat7ca\Desktop\ProjetoMusicaClasse\ProjetoMusicaClasse\obj\Debug\net8.0\ProjetoMusicaClasse.dll
+C:\Users\nat7ca\Desktop\ProjetoMusicaClasse\ProjetoMusicaClasse\obj\Debug\net8.0\refint\ProjetoMusicaClasse.dll
+C:\Users\nat7ca\Desktop\ProjetoMusicaClasse\ProjetoMusicaClasse\obj\Debug\net8.0\ProjetoMusicaClasse.pdb
+C:\Users\nat7ca\Desktop\ProjetoMusicaClasse\ProjetoMusicaClasse\obj\Debug\net8.0\ProjetoMusicaClasse.genruntimeconfig.cache
+C:\Users\nat7ca\Desktop\ProjetoMusicaClasse\ProjetoMusicaClasse\obj\Debug\net8.0\ref\ProjetoMusicaClasse.dll
